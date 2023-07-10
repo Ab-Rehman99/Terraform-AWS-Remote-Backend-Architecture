@@ -1,0 +1,5 @@
+bucket_prefix = "devops-directive-web-app1-data"
+db_name       = "abduldb"
+db_user       = "foo"
+region        = "ap-south-1"
+# db_pass = "foobarbaz"
